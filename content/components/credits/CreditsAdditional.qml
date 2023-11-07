@@ -11,7 +11,7 @@ Item {
         return [
             {
                 title: 'Код приложения',
-                description: 'Исходный код приложения размещён в <a href="https://github.com/icestormikk/EventsQML"><b>публичном репозитории</b></a> на GitHub.'
+                description: 'Исходный код приложения размещён в <a href="https://github.com/icestormikk/KudaGo-Android"><b>публичном репозитории</b></a> на GitHub.'
             },
             {
                 title: 'Стек инструментов',
