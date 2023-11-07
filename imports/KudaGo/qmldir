@@ -1,0 +1,4 @@
+Module KudaGo
+singleton Constants 1.0 Constants.qml
+singleton EventsStore 1.0 EventsStore.qml
+
